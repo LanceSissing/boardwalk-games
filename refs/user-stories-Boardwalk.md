@@ -1,6 +1,6 @@
 # Project Planning - User Stories
 
-## User Story 1: User friendly navigation and responsive design (must-have)
+## User Story 1: User friendly navigation & responsive design (must-have)
 - User story: As a First-Time Visitor, I need easy navigation and a user-friendly design, including a responsive layout for my device, so I can find information quickly and efficiently without frustration.
 
 Acceptance Criteria
@@ -15,7 +15,7 @@ Tasks
 - User story: As a Casual Gamer, I want to see high-quality images and engaging descriptions of the café's ambience and some of the available games, so I can decide if it's the right place for me to relax and have fun.
 
 Acceptance Criteria
-- The homepage features a carousel with high-quality images of the café and game selection that rotates automatically and allows manual navigation.
+- The homepage features a carousel with high-quality images of the cafe and game selection that rotates automatically and allows manual navigation.
 - Engaging descriptions of the café's ambience and available favourite games are displayed clearly and concisely within the site's content.
 - The homepage layout prominently features the images and descriptions in an uncluttered manner.
 
@@ -100,13 +100,26 @@ Tasks
 
 ## User Story 8: Game Library page (must-have)
 
-- User Story: As a Regular Customer, I want to sign up for newsletters and updates, so I can stay informed about special offers, new games, and upcoming events.
+- User Story: As a Customer, I want to see what games are aailable for me to play so I can decide if I want to book a sessions at the cafe.
 
 Acceptance Criteria
 
-- The website contains a sign up form for the shop newsletter
-- The sign up form is placed in the footer on every page, so that users can easily find it
+- Site includes an additional page called 'Game Librabry' that sets out the games available for customers to play
+- The 'Game Librabry' page includes a reservation form to allow users to book game availability.
 
 Tasks
 
-- Integrate the newsletter sign-up form into the website footer.
+- Integrate the additional page into the site.
+
+## User Story 9: Game booking form (should-have)
+
+- User Story: As a Customer, I want to be able to book a game to make sure it will be available to me when I come to the cafe.
+
+Acceptance Criteria
+
+- Site includes an additional page called 'Game Librabry' that sets out the games available for customers to play
+- The 'Game Librabry' page includes a reservation form to allow users to book game availability.
+
+Tasks
+
+- Integrate the additional page into the site.
